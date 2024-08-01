@@ -405,10 +405,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8341133535930451550, guid: 542dd6c62935cb7458c5a8738e6514eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: -7656562723634260684, guid: 542dd6c62935cb7458c5a8738e6514eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 542dd6c62935cb7458c5a8738e6514eb,
         type: 3}
       propertyPath: m_Name
       value: TJ 3ds Max Level - final fixed scaled up
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821164484668379633, guid: 542dd6c62935cb7458c5a8738e6514eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.01
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
